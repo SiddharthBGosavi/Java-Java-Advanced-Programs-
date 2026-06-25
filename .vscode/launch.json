@@ -1,0 +1,192 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "StudentMarksGUI",
+      "request": "launch",
+      "mainClass": "StudentMarksGUI",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "InstituteDatabase",
+      "request": "launch",
+      "mainClass": "InstituteDatabase",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "AWT",
+      "request": "launch",
+      "mainClass": "AWT",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "AddMatrix",
+      "request": "launch",
+      "mainClass": "AddMatrix",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "NestedWhileLoop",
+      "request": "launch",
+      "mainClass": "NestedWhileLoop",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Attach",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": "<debug port of the debuggee>"
+    },
+    {
+      "type": "java",
+      "name": "Attach",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": "<debug port of the debuggee>"
+    },
+    {
+      "type": "java",
+      "name": "whileloop",
+      "request": "launch",
+      "mainClass": "whileloop",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Switch_Statement",
+      "request": "launch",
+      "mainClass": "Switch_Statement",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Ternary_operator",
+      "request": "launch",
+      "mainClass": "Ternary_operator",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Conditionalstatement",
+      "request": "launch",
+      "mainClass": "Conditionalstatement",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Conditional_statement",
+      "request": "launch",
+      "mainClass": "Conditional_statement",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Logical_operators",
+      "request": "launch",
+      "mainClass": "Logical_operators",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Relational_operators",
+      "request": "launch",
+      "mainClass": "Relational_operators",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Arithmetic_operators",
+      "request": "launch",
+      "mainClass": "Arithmetic_operators",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Type_conversion_casting",
+      "request": "launch",
+      "mainClass": "Type_conversion_casting",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Literals",
+      "request": "launch",
+      "mainClass": "Literals",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "Primitive_data_types",
+      "request": "launch",
+      "mainClass": "Primitive_data_types",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "variables1",
+      "request": "launch",
+      "mainClass": "variables1",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "variables",
+      "request": "launch",
+      "mainClass": "variables",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "JAVA_2024_64bdacd2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/tw93/OneDrive/Desktop/JAVA_2024",
+      "program": "c:/Users/tw93/OneDrive/Desktop/JAVA_2024/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
